@@ -1,0 +1,41 @@
+Fitter prepared. Device is cuda
+
+2021-05-23T16:42:26.140242
+LR: 0.0001
+Fitter prepared. Device is cuda
+
+2021-05-23T16:45:32.160975
+LR: 0.0001
+Fitter prepared. Device is cuda
+
+2021-05-23T16:48:18.658311
+LR: 0.0001
+Fitter prepared. Device is cuda
+
+2021-05-23T16:50:08.629001
+LR: 0.0001
+Fitter prepared. Device is cuda
+
+2021-05-23T16:56:44.123618
+LR: 0.0001
+[RESULT]: Train. Epoch: 0, summary_loss: 0.01049, time: 35345.79399
+[RESULT]: Val. Epoch: 0, summary_loss: 0.00395, levenshtein: 1.19820 time: 73.83755
+
+2021-05-24T02:47:08.423018
+LR: 9.875893165300026e-05
+[RESULT]: Train. Epoch: 1, summary_loss: 0.00983, time: 35386.95417
+[RESULT]: Val. Epoch: 1, summary_loss: 0.00378, levenshtein: 1.19280 time: 86.90354
+
+2021-05-24T12:38:48.706077
+LR: 9.509795896116975e-05
+[RESULT]: Train. Epoch: 2, summary_loss: 0.00938, time: 35235.03612
+[RESULT]: Val. Epoch: 2, summary_loss: 0.00392, levenshtein: 1.19400 time: 102.78932
+
+2021-05-24T22:27:51.934473
+LR: 8.920065838216748e-05
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda

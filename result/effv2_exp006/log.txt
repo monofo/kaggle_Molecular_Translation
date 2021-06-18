@@ -1,0 +1,95 @@
+Fitter prepared. Device is cuda
+
+2021-05-17T06:43:44.659024
+LR: 0.00025
+Fitter prepared. Device is cuda
+
+2021-05-17T06:44:39.892388
+LR: 0.00025
+Fitter prepared. Device is cuda
+
+2021-05-17T06:45:35.729444
+LR: 0.00025
+Fitter prepared. Device is cuda
+
+2021-05-17T06:50:33.557128
+LR: 0.00025
+[RESULT]: Train. Epoch: 0, summary_loss: 0.43885, time: 20240.42977
+[RESULT]: Val. Epoch: 0, summary_loss: 0.06171, levenshtein: 3.73720 time: 49.04770
+
+2021-05-17T12:28:47.814782
+LR: 0.001
+[RESULT]: Train. Epoch: 1, summary_loss: 0.14507, time: 20262.24959
+[RESULT]: Val. Epoch: 1, summary_loss: 0.03076, levenshtein: 2.34280 time: 69.81960
+
+2021-05-17T18:07:48.169945
+LR: 0.001
+[RESULT]: Train. Epoch: 2, summary_loss: 0.08541, time: 20117.21203
+[RESULT]: Val. Epoch: 2, summary_loss: 0.03851, levenshtein: 2.58100 time: 68.44083
+
+2021-05-17T23:44:19.318025
+LR: 0.000987476492134821
+[RESULT]: Train. Epoch: 3, summary_loss: 0.06035, time: 20121.78967
+[RESULT]: Val. Epoch: 3, summary_loss: 0.00980, levenshtein: 1.45560 time: 58.58561
+
+2021-05-18T05:21:00.445223
+LR: 0.0009505339495172585
+[RESULT]: Train. Epoch: 4, summary_loss: 0.04763, time: 20266.45113
+[RESULT]: Val. Epoch: 4, summary_loss: 0.00816, levenshtein: 1.39860 time: 63.07991
+
+2021-05-18T10:59:58.160618
+LR: 0.000891024825492781
+[RESULT]: Train. Epoch: 5, summary_loss: 0.04520, time: 20228.62894
+[RESULT]: Val. Epoch: 5, summary_loss: 0.01179, levenshtein: 1.51820 time: 46.27325
+
+2021-05-18T16:38:10.684589
+LR: 0.0008119331560284375
+[RESULT]: Train. Epoch: 6, summary_loss: 0.04016, time: 20117.80502
+[RESULT]: Val. Epoch: 6, summary_loss: 0.00777, levenshtein: 1.37940 time: 54.84203
+
+2021-05-18T22:14:45.821931
+LR: 0.0007172249276892204
+[RESULT]: Train. Epoch: 7, summary_loss: 0.03889, time: 20160.16643
+[RESULT]: Val. Epoch: 7, summary_loss: 0.00702, levenshtein: 1.33240 time: 68.54168
+
+2021-05-19T03:52:02.662483
+LR: 0.0006116492065111791
+[RESULT]: Train. Epoch: 8, summary_loss: 0.03409, time: 20183.00533
+[RESULT]: Val. Epoch: 8, summary_loss: 0.00756, levenshtein: 1.36840 time: 53.74131
+
+2021-05-19T09:29:39.517573
+LR: 0.0005005000000000001
+[RESULT]: Train. Epoch: 9, summary_loss: 0.03174, time: 20206.67906
+[RESULT]: Val. Epoch: 9, summary_loss: 0.00611, levenshtein: 1.30140 time: 58.50088
+
+2021-05-19T15:07:32.846997
+LR: 0.00038935079348882104
+[RESULT]: Train. Epoch: 10, summary_loss: 0.02947, time: 20221.60653
+[RESULT]: Val. Epoch: 10, summary_loss: 0.00558, levenshtein: 1.28120 time: 52.05277
+
+2021-05-19T20:45:50.400126
+LR: 0.0002837750723107798
+[RESULT]: Train. Epoch: 11, summary_loss: 0.02677, time: 20165.13068
+[RESULT]: Val. Epoch: 11, summary_loss: 0.00475, levenshtein: 1.26400 time: 62.70398
+
+2021-05-20T02:23:06.592711
+LR: 0.00018906684397156263
+[RESULT]: Train. Epoch: 12, summary_loss: 0.02499, time: 20210.62999
+[RESULT]: Val. Epoch: 12, summary_loss: 0.00470, levenshtein: 1.24140 time: 48.59789
+
+2021-05-20T08:01:06.616367
+LR: 0.00019055798443614398
+[RESULT]: Train. Epoch: 13, summary_loss: 0.02376, time: 20192.76791
+[RESULT]: Val. Epoch: 13, summary_loss: 0.00457, levenshtein: 1.23920 time: 59.44496
+
+2021-05-20T13:38:46.892883
+LR: 0.00019488544261182827
+[RESULT]: Train. Epoch: 14, summary_loss: 0.02348, time: 27238.54002
+[RESULT]: Val. Epoch: 14, summary_loss: 0.00450, levenshtein: 1.23180 time: 52.68524
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda
+Fitter prepared. Device is cuda
